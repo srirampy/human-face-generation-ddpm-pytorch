@@ -42,11 +42,18 @@ The GIF shows:
 
 The model uses a **UNet backbone** with sinusoidal timestep embeddings.
 
-The network is trained to predict the noise ε added to an image at timestep *t*:
+The network is trained to predict the noise `ε` added to an image at timestep `t`.
 
-\[
-\epsilon_\theta(x_t, t) \rightarrow \text{predicted noise}
-\]
+Mathematically, the model learns:
+
+εθ(xt, t) → predicted noise
+
+Where:
+- `xt` = noisy image at timestep `t`
+- `t` = diffusion step (noise level)
+- `ε` = Gaussian noise added to the image
+- `εθ` = neural network prediction
+
 
 ### Training Objective
 Mean Squared Error (MSE) between:
