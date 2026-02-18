@@ -36,6 +36,11 @@ The GIF shows:
 
 > Dataset is not uploaded due to size (~1.3GB). It is publicly available online.
 
+For convenience, I have already prepared and uploaded the dataset on Kaggle.  
+You can directly attach it to your Kaggle notebook and start training without manually downloading or preprocessing.
+
+**Kaggle Dataset Link:**  
+https://www.kaggle.com/datasets/ram3288/celeba-faces-dataset
 ---
 
 ## Model Architecture
