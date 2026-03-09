@@ -15,6 +15,10 @@ This repository demonstrates the complete generative pipeline:
 
 ---
 
+
+
+
+
 ## Training Progress
 Below is the evolution of the same noise sample across epochs:
 
@@ -24,7 +28,7 @@ noise → blobs → face structure → realistic human
 
 ### Demo Video
 
-▶ [Watch the Demo Video](demo.mp4)
+https://github.com/user-attachments/assets/bb3b6e43-6c16-46c9-8b58-cbd660520658
 
 ---
 
