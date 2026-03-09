@@ -23,7 +23,7 @@ The video shows:
 noise → blobs → face structure → realistic human
 
 <video width="700" controls>
-  <source src="samples/demo.mp4" type="video/mp4">
+  <source src="demo.mp4" type="video/mp4">
 </video>
 
 ---
