@@ -18,10 +18,13 @@ This repository demonstrates the complete generative pipeline:
 ## Training Progress
 Below is the evolution of the same noise sample across epochs:
 
-![Training Progress](training_progress.gif)
+The video shows:
 
-The GIF shows:
-**noise → blobs → face structure → realistic human**
+noise → blobs → face structure → realistic human
+
+<video width="700" controls>
+  <source src="samples/demo.mp4" type="video/mp4">
+</video>
 
 ---
 
@@ -43,13 +46,7 @@ You can directly attach it to your Kaggle notebook and start training without ma
 https://www.kaggle.com/datasets/ram3288/celeba-faces-dataset
 ---
 
-## Demo
 
-Watch the diffusion model generate human faces from pure noise.
-
-<video width="700" controls>
-  <source src="demo.mp4" type="video/mp4">
-</video>
 
 
 ## Model Architecture
