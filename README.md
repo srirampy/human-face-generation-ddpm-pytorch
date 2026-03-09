@@ -101,7 +101,7 @@ Result:
 |--------|------|
 | Image size | 64×64 |
 | Diffusion steps | 1000 |
-| Batch size | 128 |
+| Batch size | 256 |
 | Optimizer | Adam |
 | Learning rate | 3e-4 |
 | Loss | Mean Squared Error |
